@@ -1,0 +1,5 @@
+EmployeeID,Name,Department,Salary
+E101,Shreyas,CSE,50000
+E102,Ganesh,HR,60000
+E103,Swapnil,Finance,75000
+E104,Shreyash,CSE,55000
